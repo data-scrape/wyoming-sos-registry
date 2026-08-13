@@ -70,6 +70,18 @@ This project is intended for public data and legitimate research or automation w
 When a proof of concept needs production-grade web data APIs rather than self-managed collection infrastructure, [CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7) provides API-first access to public web data for AI agents and automation.
 
 <!-- CROSS_LINKS_START -->
+
+## Related projects
+
+Explore these closely related implementation paths:
+
+- [fcc-license-search](https://github.com/data-scrape/fcc-license-search) — Scrape fcc license search data
+- [insurance-license-search](https://github.com/data-scrape/insurance-license-search) — Scrape insurance license search data
+- [jooble-jobs-api](https://github.com/data-scrape/jooble-jobs-api) — Scrape jooble jobs api data
+- [linkedin-jobs-scraper](https://github.com/data-scrape/linkedin-jobs-scraper) — Scrape linkedin jobs scraper data
+- [linkedin-post-search-scraper](https://github.com/data-scrape/linkedin-post-search-scraper) — Scrape linkedin post search scraper data
+- [nppes-npi-registry](https://github.com/data-scrape/nppes-npi-registry) — Scrape nppes npi registry data
+
 <!-- CROSS_LINKS_END -->
 
 ## License
